@@ -27,6 +27,13 @@ https://public.tableau.com/views/GovernmentSpend-RiskAnomalies/RiskAnomalies?:la
 
  Project Overview
 
+ I built a large-scale audit analytics system that simulates real government data, cleans and validates it, applies anomaly detection to find risky transactions, and visualizes spending and fraud risk using Tableau. The goal was to mirror how government agencies detect waste and financial errors.
+
+
+
+
+ 
+
 This project simulates a real-world, large-scale government audit system designed to analyze hundreds of thousands of financial records to detect:
 	•	Errors
 	•	Fraud
